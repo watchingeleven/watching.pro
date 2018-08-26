@@ -1,6 +1,6 @@
 # Site settings
 title: 且行且铭
-SEOTitle: watching的博客 | 且行且铭
+SEOTitle: watching的博客|且行且铭
 header-img: img/post-bg-desk.jpg
 email: 646775392@qq.com
 description: "oooo"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/watchingeleven/watchingeleven.github.io" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/WechatIMG4.jpeg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
